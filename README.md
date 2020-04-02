@@ -1,2 +1,0 @@
-# QG-training-camp
-assignments
